@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "My HERO",
+  "base_artist": "ビーグルクルー",
+  "createdAt": "2025-12-10T09:30:25.123436Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Farewell My Hero",
+      "artist": "Ancient Bards",
+      "has_synced": true,
+      "path": "select/01_Farewell_My_Hero_Ancient_Bards.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Hero",
+      "artist": "Level 42",
+      "has_synced": false,
+      "path": "select/02_My_Hero_Level_42.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My Hero",
+      "artist": "Level 42",
+      "has_synced": false,
+      "path": "select/03_My_Hero_Level_42.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My Hero",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Chloe Feoranzo",
+      "has_synced": false,
+      "path": "select/04_My_Hero_Scott_Bradlee's_Postmodern_Jukebox_feat._Chloe_Feoranzo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My Hero",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": false,
+      "path": "select/05_My_Hero_Scott_Bradlee's_Postmodern_Jukebox.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My Hero",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/06_My_Hero_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Hero",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/07_My_Hero_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My Hero",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/08_My_Hero_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My Hero (Acoustic)",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/09_My_Hero_(Acoustic)_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My Hero (Live at the Melkweg)",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/10_My_Hero_(Live_at_the_Melkweg)_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My Hero",
+      "artist": "MAN WITH A MISSION",
+      "has_synced": false,
+      "path": "select/11_My_Hero_MAN_WITH_A_MISSION.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "My Hero",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/12_My_Hero_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "My Hero",
+      "artist": "Dropkick Murphys",
+      "has_synced": true,
+      "path": "select/13_My_Hero_Dropkick_Murphys.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "My HERO",
+      "artist": "ビーグルクルー",
+      "has_synced": false,
+      "path": "select/pl_01_My_HERO_ビーグルクルー.txt"
+    }
+  ]
+}
